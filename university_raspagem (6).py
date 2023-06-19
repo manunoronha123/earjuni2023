@@ -56,3 +56,5 @@ if df is not None:
       st.write("Dado não encontrado")
   else:
     st.write("Coluna não encontrada no Data Frame")
+cd Downloads 
+streamlit run univerity_raspagem(6).py
