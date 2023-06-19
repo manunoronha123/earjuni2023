@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/16RHuw35dIoGJf_g2axgB9TGrvioHrX2l
 """
 
-!pip install streamlit
-!pip install requests
-!pip install beautifulsoup4
-!pip install pandas
+#!pip install streamlit
+#!pip install requests
+#!pip install beautifulsoup4
+#!pip install pandas
 
 #Baixar as Bibliotecas Necessárias
 import requests #Usado para obter o conteúdo HTML
